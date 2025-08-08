@@ -57,7 +57,7 @@ Ideal for students stuck in the decision-making stage—Three‑Tap turns histor
 ### Prerequisites
 
 - Node.js & npm  
-- MongoDB instance (local or Atlas)
+- MongoDB instance (Atlas)
 
 ### Installation
 
